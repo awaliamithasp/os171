@@ -1,0 +1,3 @@
+Task for week00: It's about introduction to github. 
+		 Colleger of Operating System must have a google account. So they can sign up to github for doing every task that Operating System's give.
+
