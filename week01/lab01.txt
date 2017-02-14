@@ -20,3 +20,4 @@ drwxr-xr-x  2 awalia.mitha StafCS 4096 Feb 14 15:28 week09
 drwxr-xr-x  2 awalia.mitha StafCS 4096 Feb 14 15:28 week10
 drwxr-xr-x  2 awalia.mitha StafCS 4096 Feb 14 15:33 xtra
 /home/fasilkom/mahasiswa/a/awalia.mitha/os171/week01
+Today is 14 Feb 2017 at 17:05:06
