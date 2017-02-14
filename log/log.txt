@@ -1,0 +1,6 @@
+w00-170207-10-LR-In Class: Mention about component for marking all of the duties,rules for class A of Operating System
+w00-170207-11-LR-In Class: Short introduction about google account, github and badak server and Introduction to Operating System
+w00-170209-11-DS-About: Data transfer and privilege
+w01-170214-10-LR-In Class: Learn about HKI (Hak Kekayaan Intelektual), Trademark, Servicemark, Rahasia Dagang, Paten, CopyRight, Desain, Indikasi geografis
+w01-170214-11-LR-In class: Learn about simple scripting; shell and simple commond for putty
+
