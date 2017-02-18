@@ -3,4 +3,8 @@ w00-170207-11-LR-In Class: Short introduction about google account, github and b
 w00-170209-11-DS-About: Data transfer and privilege
 w01-170214-10-LR-In Class: Learn about HKI (Hak Kekayaan Intelektual), Trademark, Servicemark, Rahasia Dagang, Paten, CopyRight, Desain, Indikasi geografis
 w01-170214-11-LR-In class: Learn about simple scripting; shell and simple commond for putty
+w01-170214-11-LR-In Class: Learn more about scripting
+w01-170216-10-LR-In Class: To knows about commond on putty that we'll be use.
+w01-170216-10-LR-About: Job Control, Pipelines, SED, AWKK, REGEX
+w01-170216-11-LR-About: Demo pipelines and SED,AWK,REGEX. 
 
