@@ -2,3 +2,5 @@ w03-170228-10-LR: introduction to linux
 w03-170228-10-LR: About instruction when linux executed first time
 w03-170228-11-LR: BIOS, Boot, and UpStart
 w03-170228-11-PS: doing lab session
+w03-170302-10-LR: Address and Value
+w03-170303-15-PS: finishing lab
