@@ -1,0 +1,8 @@
+w04-170307-10-LR: starting with review  pointer and c leanguage
+w04-170307-10-LR: c leanguage cont'd
+w04-170307-11-LR: I/O Process
+w04-170307-11-LR  Read lab task
+w04-170309-10-LR: starting with c review c leanguage
+w04-170309-10-LR: part to demos c
+w04-170309-11-LR: Mr.Rahmat show us for demo c leanguage on demos file in github
+w04-170309-11-PS: Doing a half of lab session
