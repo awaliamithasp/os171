@@ -1,0 +1,5 @@
+w05-170314-10-LR:About diskriptor, seek, dump
+w05-170314-11-PS:demo practice in class
+w05-170316-10-LR:About memori
+w05-170316-11-PS:demo practice about memori in class
+w05-170318-10-PS:Lab practice for week05
