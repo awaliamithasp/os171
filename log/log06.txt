@@ -1,0 +1,11 @@
+w06-170406-10-LR:About Process & Threads
+w06-170406-10-LR:short explanation about process concept, multi-process synchronization problem and 3 kinds of Communication(Pipes, Socket, RPC)
+w06-170406-11-LR:short explanation about thread
+w06-170406-11-PS:Exercise 40 minutes (UAS 2016 no.1)
+
+w06-170411-10-LR:About producers and consumer
+w06-170411-10-LR:About dining Philosopher, Interprocess Communication, Ordinary Pipes,Socket
+w06-170411-11-LR:About RPC, benefits, Multicore Processing
+w06-170411-11-PS:Exercise 40 minutes from demos arsip
+w06-170414-15-PS:Doing lab for week06
+w06-170414-18-PS:Finish week06 lab session
