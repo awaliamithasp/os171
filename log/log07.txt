@@ -1,0 +1,8 @@
+w07-170413-10-LR: About Virtualization
+w07-170413-11-PS: Exercise demos file in class
+w07-170418-10-LR: About readers-writers
+w07-170418-10-LR: About Synchronization
+w07-170418-11-LR: About scheduling
+w07-170418-11-PS: Exercise from demos file in class
+w07-170421-13-PS: doing lab07 for week07 (start)
+w07-170422-11-PS: finishing lab07
