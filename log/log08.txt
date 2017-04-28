@@ -1,0 +1,5 @@
+w008-170418-10-LR-About : Synchronization
+w008-170418-11-PS-About : demos from lecture
+w008-170420-10-LR-About : Scheduling and CPU Utilization
+w008-170420-11-PS-About : demos from lecture
+w008-170428-21-PS-About : doing lab 08
