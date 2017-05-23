@@ -1,0 +1,6 @@
+w009-170502-10-LR-About : Mass-Storage Systems
+w009-170502-11-LR-About : Hard Disk
+w009-170504-10-LR-About : RAID
+w009-170504-11-PS-About : demos from lecture
+w009-170509-21-LR-About : overview last week
+

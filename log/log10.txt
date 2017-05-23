@@ -1,0 +1,7 @@
+w010-170516-10-LR-About : I/O Hardware
+w010-170516-11-LR-About : Application I/O Interface
+w010-170516-11-LR-About : Kernel I/O Subsystem
+w010-170518-10-LR-About : Transforming I/O Requests to Hardware Operations
+w010-170518-11-PS-About : Demo some exercise from demos folder in class
+w010-170523-24-PS-About : Doing lab09$lab10 indeed
+
